@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "skoorch",
+  "address": "0x1678D906Ea552B96fbe36705cbc761A220d3251F",
+  "risk": "2",
+  "title": "instantUnstake fee can be avoided",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/9"
+}
