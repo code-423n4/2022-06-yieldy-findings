@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "shung",
+  "address": "0xa8101F6Ec7080dE84233f1eE4fc1D6A2C1568327",
+  "risk": "3",
+  "title": "Lack of infinite approvals when setting `CURVE_POOL` address renders `instantUnstakeCurve()` unusable",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/27"
+}
