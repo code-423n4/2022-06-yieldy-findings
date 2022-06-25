@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "Lambda",
+  "address": "0xEfC711B22F4fDbCBC221aC7c116e90c699D0b708",
+  "risk": "2",
+  "title": "coolDown & warmUp period do not work when a low _firstEpochEndTime is passed to initialize",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/88"
+}
