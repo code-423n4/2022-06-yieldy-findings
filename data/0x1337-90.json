@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "0x1337",
+  "address": "0x4C024e5B3AE9B56319ed7c2D0F73A8535DDFF47e",
+  "risk": "2",
+  "title": "Lack of Storage Gap ",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/90"
+}
