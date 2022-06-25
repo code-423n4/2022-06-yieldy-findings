@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "neumo",
+  "address": "0x52156528d5029D09fE82BF44C7bd6DE91EEE5774",
+  "risk": "2",
+  "title": "If an address is removed from the contracts array in BatchRequests contract, calls to canBatchContracts() will fail",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/82"
+}
