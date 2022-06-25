@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "scaraven",
+  "address": "0xac3A826c8ea76Ab6FCE817d3e54da0acb5fd30d5",
+  "risk": "3",
+  "title": "Arithmetic Rounding in `rebase()` can cause funds to be stolen from users",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/63"
+}
