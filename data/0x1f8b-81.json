@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "0x1f8b",
+  "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
+  "risk": "3",
+  "title": "`LiquidityReserve.removeLiquidity` prone to receive more `stakingToken` tokens",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/81"
+}
