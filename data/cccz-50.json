@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "3",
+  "title": "Staking: Attacker can stake very few tokens for others to increase the lock time of others' tokens.",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/50"
+}
