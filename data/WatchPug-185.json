@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`YIELDY_TOKEN.rebase()` can be front run to steal the pending profit to be distributed",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/185"
+}
