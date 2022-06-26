@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "2",
+  "title": "### [PNM-002] function `permit` uses unsafe `_approve` which is well-knownly vulnerable against ERC-20 race condition",
+  "issueId": 251,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/251"
+}
