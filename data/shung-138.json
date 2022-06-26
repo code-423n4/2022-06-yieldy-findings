@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "shung",
+  "address": "0xa8101F6Ec7080dE84233f1eE4fc1D6A2C1568327",
+  "risk": "2",
+  "title": "Lack of fee control in `instantUnstakeReserve()` function can cause users to incur unexpected fees",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/138"
+}
