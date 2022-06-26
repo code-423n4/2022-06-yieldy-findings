@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "2",
+  "title": "[PNM-001] function `transferFrom` can transfer tokens `to address 0`",
+  "issueId": 249,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/249"
+}
