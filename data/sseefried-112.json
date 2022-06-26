@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "sseefried",
+  "address": "0x3F1290E1d3F9286957D4bD08aFFd5C6ef74B05c4",
+  "risk": "2",
+  "title": " No validation on `setAffiliateFee`",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/112"
+}
