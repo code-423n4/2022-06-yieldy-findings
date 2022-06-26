@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "0xDjango",
+  "address": "0x886241e011A6C148bdD96B097EB27962f8A1c5F0",
+  "risk": "2",
+  "title": "No way to set CURVE_POOL approval after setting new curve pool address",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/165"
+}
