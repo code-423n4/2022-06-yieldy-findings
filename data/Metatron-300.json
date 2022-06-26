@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "Metatron",
+  "address": "0xe75781091428a2423367C704d2890a47c52Fe1ce",
+  "risk": "2",
+  "title": "[M-02] Capping totalSupply on rebase may result in loss of funds",
+  "issueId": 300,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/300"
+}
