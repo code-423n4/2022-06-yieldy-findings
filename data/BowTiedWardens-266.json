@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "BowTiedWardens",
+  "address": "0x644AEDa9E5797474B28A656d9e2016A927B0aE1B",
+  "risk": "2",
+  "title": "If any tokens of `STAKING_TOKEN` are sent to the contract directly, `addRewardsForStakers` can be called as a backrun to take that user's funds and distribute it among stakers.",
+  "issueId": 266,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/266"
+}
