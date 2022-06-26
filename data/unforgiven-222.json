@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "token transfers in LiquidityReserve and Staking contract don't support deflationary ERC20 tokens, and user funds can be lost if stacking token was deflationary",
+  "issueId": 222,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/222"
+}
