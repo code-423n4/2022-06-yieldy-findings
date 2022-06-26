@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "It's possible to perform DOS and fund lose in Stacking by transferring tokens directly to contract ",
+  "issueId": 246,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/246"
+}
