@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "2",
+  "title": "[PNM-003] _totalStakedBefore_ and _totalStakedAfter_ are the always the same",
+  "issueId": 253,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/253"
+}
