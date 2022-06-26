@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "`Staking.sol#stake()` DoS by staking 1 wei for the recipient when `warmUpPeriod > 0`",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/187"
+}
