@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "pashov",
+  "address": "0x1797c3BcEBF8c858a916FCbbd0359F65F5484915",
+  "risk": "2",
+  "title": "Instant unstake fee can go up to 100%",
+  "issueId": 176,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/176"
+}
