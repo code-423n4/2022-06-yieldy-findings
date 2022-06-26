@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "ladboy233",
+  "address": "0xB59600a1456d764a26dC4B4D651110622B8c3c28",
+  "risk": "3",
+  "title": "Potential contract call to launch attack in mission-critical function",
+  "issueId": 161,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/161"
+}
