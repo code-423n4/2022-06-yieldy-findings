@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 258,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/258"
+}
