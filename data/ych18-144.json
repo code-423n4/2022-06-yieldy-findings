@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "2",
+  "title": "No allowance given to the new `CURVE_POOL` ",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/144"
+}
