@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "Users will mint 1:1 Liquidity Reserve Token due to zero reward tokens",
+  "issueId": 303,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/303"
+}
