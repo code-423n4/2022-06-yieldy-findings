@@ -1,0 +1,9 @@
+{
+  "contest": 139,
+  "handle": "BowTiedWardens",
+  "address": "0x644AEDa9E5797474B28A656d9e2016A927B0aE1B",
+  "risk": "2",
+  "title": "`setCurvePool` does not approve the new curve pool to transfer the TOKE_POOL token, making it unusable for its intended purpose.",
+  "issueId": 264,
+  "issueUrl": "https://github.com/code-423n4/2022-06-yieldy-findings/issues/264"
+}
