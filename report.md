@@ -1,3 +1,11 @@
+---
+sponsor: "Yieldy"
+slug: "2022-06-yieldy"
+date: "2022-09-27"
+title: "Yieldy contest"
+findings: "https://github.com/code-423n4/2022-06-yieldy-findings/issues"
+contest: 139
+---
 
 # Overview
 
